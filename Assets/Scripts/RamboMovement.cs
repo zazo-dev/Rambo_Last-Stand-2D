@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class JohnMovement : MonoBehaviour
+public class RamboMovement : MonoBehaviour
 {
     public float Speed;
     public float JumpForce;
